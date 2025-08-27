@@ -19,7 +19,5 @@ public class Program
         IReportSaver saver = new FileReportSaver();
         string filePath = "C:\\Users\\dhruv\\OneDrive\\Desktop\\DotDot\\report.txt";
         saver.SaveReport(report, filePath);
-
-        Console.WriteLine($"Report saved to {filePath}");
     }
 }

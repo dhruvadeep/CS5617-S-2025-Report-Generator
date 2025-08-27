@@ -20,7 +20,9 @@ public class FileReportSaver : IReportSaver
             throw new ArgumentException("File path cannot be null or whitespace.", nameof(filePath));
         }
 
+        Console.WriteLine($"Saving report to {filePath}...");
         string content = $"Title: {report.Title}\n\nDescription: {report.Description}";
         System.IO.File.WriteAllText(filePath, content);
+        Console.WriteLine("Report saved successfully.\n\n");
     }
 }
