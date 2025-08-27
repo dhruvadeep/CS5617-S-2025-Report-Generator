@@ -1,4 +1,16 @@
-﻿using Reports;
+﻿/*************************************
+ * File     =   Program.cs
+ * 
+ * Author   =   Dhruvadeep Malakar
+ * 
+ * Product  =   ReportGenerator
+ * 
+ * Project  =   Execute
+ * 
+ * Description =   Main entry point for the Report Generator application.
+ */
+
+using Reports;
 
 namespace Execute;
 
