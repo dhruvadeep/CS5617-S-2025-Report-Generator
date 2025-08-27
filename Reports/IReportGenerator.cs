@@ -11,5 +11,5 @@ using System.Threading.Tasks;
 namespace Reports;
 public interface IReportGenerator
 {
-    IReport GenerateReport(string title, string description);
+    IReport Generate(string title, string description);
 }

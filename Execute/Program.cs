@@ -10,7 +10,7 @@ public class Program
 
         IReportGenerator generator = new ReportGenerator();
 
-        IReport report = generator.GenerateReport(
+        IReport report = generator.Generate(
             "Monthly Report",
             "This is the monthly report description."
         );
