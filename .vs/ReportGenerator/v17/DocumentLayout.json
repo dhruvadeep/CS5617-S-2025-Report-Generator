@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dhruv\\source\\repos\\ReportGenerator\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7B5D44-D2CC-483C-B069-7821AA4A172F}|Execute\\Execute.csproj|c:\\users\\dhruv\\source\\repos\\reportgenerator\\execute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7B5D44-D2CC-483C-B069-7821AA4A172F}|Execute\\Execute.csproj|solutionrelative:execute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,6 +55,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhruv\\source\\repos\\ReportGenerator\\Execute\\Program.cs",
+              "RelativeDocumentMoniker": "Execute\\Program.cs",
+              "ToolTip": "C:\\Users\\dhruv\\source\\repos\\ReportGenerator\\Execute\\Program.cs",
+              "RelativeToolTip": "Execute\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T14:25:38.722Z",
+              "EditorCaption": ""
             }
           ]
         }
